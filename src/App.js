@@ -3,6 +3,8 @@ import { AppWrap } from './appStyles';
 import Header from './components/header/header';
 import Content from './components/content/content';
 import SocialBar from './components/social/socialBar';
+import Cards from './components/cards/cards'
+
 
 function App() {
   return (
@@ -10,6 +12,7 @@ function App() {
       <Header />
       <SocialBar/>
       <Content/>
+      <Cards />
     </AppWrap>
   );
 }
