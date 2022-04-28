@@ -11,4 +11,6 @@ export const AppWrap = styled.div`
     flex-flow: column nowrap;
     justify-content: top;
     align-items: center;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
 `;

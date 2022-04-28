@@ -3,6 +3,8 @@ const media = {desktop: '@media(min-width:1000px)'}
 
 export const ContentWrap = styled.div`
 width: 90vw;
+margin: auto;
+max-width: 85%;
 padding: 0px 14px;
 display: flex:
 flex-flow: column nowrap;

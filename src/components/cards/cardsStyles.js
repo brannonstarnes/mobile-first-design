@@ -9,7 +9,6 @@ export const CardsWrap = styled.div`
     align-items: center;
     padding: 14px;
     
-
     .card{
         margin: auto;
         display: flex:
