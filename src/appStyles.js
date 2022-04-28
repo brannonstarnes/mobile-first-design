@@ -4,8 +4,7 @@ import background from './media/banackground.jpg'
 
 export const AppWrap = styled.div`
     width: 100%;
-    height: 100vh;
-    border: 1px solid red;
+    height: 500vh;
     background-image: URL(${background});
-    background-repeat: repeat-y
+    background-repeat: repeat-y;
 `;
