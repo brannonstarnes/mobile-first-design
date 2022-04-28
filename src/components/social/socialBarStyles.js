@@ -11,11 +11,11 @@ export const SocialBarWrap = styled.div`
         display: inline-block;
     } 
     
-    a.youtube {
-        color: #eb3223;
+    a.github {
+        color: black;
       }
       
-      a.facebook {
+      a.linkedin {
         color: #4968ad;
       }
       
@@ -23,8 +23,8 @@ export const SocialBarWrap = styled.div`
         color: #49a1eb;
       }
       
-      a.instagram {
-        color: black;
+      a.kaggle {
+        color: pink;
       }
 
       a.social:hover {
