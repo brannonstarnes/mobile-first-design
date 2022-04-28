@@ -1,11 +1,13 @@
 import React from 'react'
+import SocialBar from '../social/socialBar';
 import { ContentWrap } from './contentStyles';
+
 
 export default function Content(){
     return(
         
         <ContentWrap>
-            <h3>This is the Content</h3>
+            <SocialBar/>
         </ContentWrap>
         
     );
