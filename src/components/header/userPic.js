@@ -10,8 +10,8 @@ export default function UserPic(){
             <img class='userPic'
             src={userImage}
             alt='A hip dog'
-            height='250px'     
-            width='250px'
+            height='200px'     
+            width='200px'
             />
         </UserPicWrap>
         

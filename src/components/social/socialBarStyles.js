@@ -1,18 +1,22 @@
 import styled from 'styled-components';
 
-
 export const SocialBarWrap = styled.div`
-    padding: 14px;
+    padding: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 
     a.social {
-        padding: 10px;
+        padding: 0 14px;
+        
         margin: 0 1 rem;
         transition: transform 250ms;
         display: inline-block;
     } 
     
     a.github {
-        color: black;
+        color: purple;
       }
       
       a.linkedin {
@@ -24,7 +28,11 @@ export const SocialBarWrap = styled.div`
       }
       
       a.kaggle {
-        color: pink;
+        color: violet;
+      }
+      
+      a.spotify{
+        color: lime;
       }
 
       a.social:hover {
