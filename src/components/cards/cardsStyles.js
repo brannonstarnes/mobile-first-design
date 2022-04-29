@@ -4,10 +4,12 @@ const media = {desktop: '@media(min-width:1000px)'}
 
 export const CardsWrap = styled.div`
     display: flex;
+    max-width: 95vw;
     flex-flow: column nowrap;
     justify-content: center;
     align-items: center;
     padding: 14px;
+
     
     .card{
         margin: auto;
@@ -25,7 +27,8 @@ export const CardsWrap = styled.div`
         
         ${media.desktop}{
             min-height: 500px;
-            min-width: 380px;
+            min-width: 350px;
+            max-width: 30vw;
             padding: 14px;
         }
     }
@@ -36,9 +39,7 @@ export const CardsWrap = styled.div`
         min-width: 90%;
         margin-top: 14px;
 
-        
     }
-
 
     ${media.desktop}{
         display: flex;
