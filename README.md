@@ -1,70 +1,19 @@
-# Getting Started with Create React App
+# One Hip Dog
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## See it Here
 
-## Available Scripts
+https://mobile-first-design.vercel.app/
 
-In the project directory, you can run:
+## Intro
 
-### `npm start`
+    One Hip Dog is a mockup bio website for a fake music production company. The style and branding was inspired by (Chubbies(R))[https://www.chubbiesshorts.com/collections/5-5-inseam-swim-trunks] Swim Shorts (click the link to see what I mean!). PLEASE NOTE: the links to Music, Merch, and Concert Schedule are not wired up to any location intentionally. The point wasn't to create a large multipage website!
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Purpose
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+    I built this project with the intent to understand the flow of mobile-first design patterns in React. Prior to this project I had no experience in taking this approach, nor any experience using styled-component wrappers in React. 
 
-### `npm test`
+## My Take On It
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+    I was able to complete this project over the course of two session within 24 hours. In that time, I learned how to implement media queries, utilize styled component wrappers, and, ultimately, get reacquainted with React, since I've been focusing in Python/Django for the past couple of months. 
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+    In my opinion, mobile-first is absolutely the way to go when it comes to responsiveness design. Well...at least until someone teaches me something else that blows my mind. Also, I found the styled-component wrappers to be a natural solution to CSS styling components in React. Visually, the code tells you exactly what is being applied to each component. 
