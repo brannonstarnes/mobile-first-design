@@ -17,7 +17,7 @@ ${media.desktop}{
     display: flex;
     flex-flow: row nowrap;
     align-items: center;
-    justify-content: left;
+    justify-content: center;
     }
 }
 `;
