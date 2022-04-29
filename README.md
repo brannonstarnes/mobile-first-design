@@ -6,7 +6,7 @@ https://mobile-first-design.vercel.app/
 
 ## Intro
 
-One Hip Dog is a mockup bio website for a fake music production company. The style and branding was inspired by (Chubbies(R))[https://www.chubbiesshorts.com/collections/5-5-inseam-swim-trunks] Swim Shorts (click the link to see what I mean!). PLEASE NOTE: the links to Music, Merch, and Concert Schedule are not wired up to any location intentionally. The point wasn't to create a large multipage website!
+One Hip Dog is a mockup bio website for a fake music production company. The style and branding was inspired by [Chubbies(R)](https://www.chubbiesshorts.com/collections/5-5-inseam-swim-trunks) Swim Shorts (click the link to see what I mean!). PLEASE NOTE: the links to Music, Merch, and Concert Schedule are not wired up to any location intentionally. The point wasn't to create a large multipage website!
 
 ## Purpose
 
