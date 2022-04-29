@@ -2,7 +2,14 @@
 
 ## See it Here
 
+### Desktop
+
 https://mobile-first-design.vercel.app/
+
+### Mobile
+
+![qrcode_mobile-first-design vercel app](https://user-images.githubusercontent.com/79380625/165870384-133d9741-e240-4969-9564-93cee29ecc50.png)
+
 
 ## Intro
 
