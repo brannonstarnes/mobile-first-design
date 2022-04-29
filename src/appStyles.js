@@ -1,6 +1,6 @@
 import styled from 'styled-components';
-import background from './media/banackground.jpg'
-
+import background from './media/banackground.jpg';
+const media = {desktop: '@media(min-width:1000px)'}
 
 export const AppWrap = styled.div`
     max-width: 100vw;
@@ -14,4 +14,10 @@ export const AppWrap = styled.div`
     font-family: 'Lato', sans-serif;
     font-weight: bold;
     font-size: 1.5em;
+
+    ${media.desktop}{
+        background-image: URL(${background});
+        background-repeat: repeat-y repeat-x;
+        min-height:100vh;
+    }
 `;
