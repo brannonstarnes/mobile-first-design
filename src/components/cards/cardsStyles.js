@@ -9,10 +9,9 @@ export const CardsWrap = styled.div`
     justify-content: center;
     align-items: center;
     padding: 14px;
-    border: 1px solid yellow;
+
     
     .card{
-        border: 1px solid red;
         margin: auto;
         padding: 14px;
         display: flex:
