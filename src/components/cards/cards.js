@@ -40,7 +40,7 @@ export default function Cards(){
                     <Card.Text>
                         Plan your perfect summer concert roadtrip today! 
                     </Card.Text>
-                    <Button variant="primary">View Concert Schedules</Button>
+                    <Button variant="primary" size="lg" >View Concert Schedules</Button>
                 </Card.Body>
                 </Card>
         </CardsWrap>

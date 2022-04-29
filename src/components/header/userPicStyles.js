@@ -7,6 +7,8 @@ export const UserPicWrap = styled.div`
     padding:14px;
 
     ${media.desktop}{
+        max-height: 300px;
+        max-width: 300px;
         display: flex;
         flex-flow: row nowrap;
         justify-content: center;
@@ -17,6 +19,10 @@ export const UserPicWrap = styled.div`
         border: 1px solid black;
         border-radius: 50%;
 
-        
+        ${media.desktop}{
+            margin-top: 20px;
+            min-height: 300px;
+            min-width: 300px;
+        }
     }
 `;

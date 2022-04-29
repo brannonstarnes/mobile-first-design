@@ -13,4 +13,5 @@ export const AppWrap = styled.div`
     align-items: center;
     font-family: 'Lato', sans-serif;
     font-weight: bold;
+    font-size: 1.5em;
 `;

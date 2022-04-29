@@ -11,6 +11,7 @@ export const CardsWrap = styled.div`
     
     .card{
         margin: auto;
+        padding: 14px;
         display: flex:
         justify-content: center;
         align-items: center;
@@ -21,12 +22,24 @@ export const CardsWrap = styled.div`
         font-weight: bold;
         text-align: center;
         background: rgba(0,0,0,.2);
+        
+        ${media.desktop}{
+            min-height: 500px;
+            min-width: 380px;
+            padding: 14px;
+        }
     }
+    
+    
     .cardPic{
         max-height: 350px;
         min-width: 90%;
         margin-top: 14px;
+
+        
     }
+
+
     ${media.desktop}{
         display: flex;
         flex-flow: row nowrap;
