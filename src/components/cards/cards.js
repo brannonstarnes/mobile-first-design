@@ -16,7 +16,7 @@ export default function Cards(){
                     <Card.Text>
                     One Hip Dog has chill beats for any occasion!
                     </Card.Text>
-                    <Button variant="primary">Shop Music</Button>
+                    <Button variant="primary" href='https://www.github.com/brannonstarnes/mobile-first-design/'>Shop Music</Button>
                 </Card.Body>
                 </Card>
 
@@ -28,7 +28,7 @@ export default function Cards(){
                     <Card.Text>
                         Show your love with Hip Merchandise! Get yours now!
                     </Card.Text>
-                    <Button variant="primary">Shop Merch</Button>
+                    <Button variant="primary" href='https://www.github.com/brannonstarnes/mobile-first-design/'>Shop Merch</Button>
                 </Card.Body>
                 </Card>
                
@@ -40,7 +40,7 @@ export default function Cards(){
                     <Card.Text>
                         Plan your perfect summer concert roadtrip today! 
                     </Card.Text>
-                    <Button variant="primary" size="lg" >View Concert Schedules</Button>
+                    <Button variant="primary" href='https://www.github.com/brannonstarnes/mobile-first-design/'>View Concert Schedules</Button>
                 </Card.Body>
                 </Card>
         </CardsWrap>
