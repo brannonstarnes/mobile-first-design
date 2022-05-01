@@ -1,4 +1,8 @@
 import styled from 'styled-components';
+import AOS from 'aos';
+import 'aos/dist/aos.css';
+
+AOS.init()
 const media = {desktop: '@media(min-width:1000px)'}
 
 
@@ -24,7 +28,11 @@ export const CardsWrap = styled.div`
         font-weight: bold;
         text-align: center;
         background: rgba(0,0,0,.2);
-        
+    
+    .fade-in {
+        opacity: 0;
+        transition: opacity 250ms ease-in;
+    }   
         ${media.desktop}{
             min-height: 500px;
             min-width: 350px;

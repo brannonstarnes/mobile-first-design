@@ -9,7 +9,7 @@ import concerts from '../../media/flonut.jpg'
 export default function Cards(){
     return(
         <CardsWrap>
-            <Card style={{ width: '18rem' }} class='card'>
+            <Card style={{ width: '18rem' }} class='card' data-aos="fade-in" data-aos-once="true">
         
                 <Card.Img variant="top" src={headphones} class='cardPic'/>
                 <Card.Body>
@@ -21,7 +21,7 @@ export default function Cards(){
                 </Card>
 
 
-                <Card style={{ width: '18rem' }} class='card'>
+                <Card style={{ width: '18rem' }} class='card' data-aos="fade-in" data-aos-once="true">
                 <Card.Img variant="top" src={merch} class='cardPic'/>
                 <Card.Body>
                 
@@ -33,7 +33,7 @@ export default function Cards(){
                 </Card>
                
                
-                <Card style={{ width: '18rem' }} class='card'>
+                <Card style={{ width: '18rem' }} class='card' data-aos="fade-in" data-aos-once="true">
                 <Card.Img variant="top" src={concerts} class='cardPic'/>
                 <Card.Body>
                     
